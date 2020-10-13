@@ -1,9 +1,9 @@
-### Hi there 👋
 ![](https://github.com/SandyK95/SandyK95/blob/main/Sandy.png)
 <!--
 **SandyK95/SandyK95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
